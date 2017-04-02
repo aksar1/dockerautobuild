@@ -4,5 +4,6 @@ public class First{
 	System.out.println("How are you doing today");
 	System.out.println("Test speed");
 	System.out.println("Test tags");
+	System.out.println("Training today on docker");
     }
 }
